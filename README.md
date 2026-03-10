@@ -131,7 +131,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-###Run Streamlit UI
+### 3 Run Streamlit UI
 
 ```bash
 streamlit run app.py
